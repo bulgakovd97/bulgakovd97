@@ -9,4 +9,4 @@
   - Telegram: @bulgakovdi
   - ВКонтакте: https://vk.com/bulgakovdi
 
-Мой стек: HTML5, CSS3, JavaScript, VSCode, Git, React.js, Redux, Node.js, Express.js, MongoDB, Webpack
+Мой стек: HTML5, CSS3, SASS/SCSS, JavaScript, VSCode, Git, React.js, Redux, Node.js, Express.js, MongoDB, Webpack
