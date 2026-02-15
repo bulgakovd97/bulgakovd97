@@ -151,5 +151,5 @@ Web API, Swagger, Orval, Telegraf.js, grammY, Strapi, Chart.js, i18next, Git, Ji
 - 🐈 Воспитываю кошку Фисташку — научил её сидеть и давать лапу :)
 
 ## 💬 Контакты
-– ✉️ bulgakovd97@yandex.ru
-– Telegram: [@bulgakovdi](https://t.me/bulgakovdi)
+- ✉️ bulgakovd97@yandex.ru
+- Telegram: [@bulgakovdi](https://t.me/bulgakovdi)
