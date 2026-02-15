@@ -3,10 +3,10 @@
 Frontend Developer (React, Next.js, TypeScript) with Fullstack experience (Express, NestJS, PostgreSQL).
 
 ## Developed Commercial Projects
-– B2B platform for managing postal shipments, financial transactions, and interactions with Russian Post (B2B)
-– HR platform for posting vacancies and automating the recruitment process (B2C / back-office)
-– Internal portal for employees (back-office)
-– B2C platform for finding like-minded people (B2C)
+- B2B platform for managing postal shipments, financial transactions, and interactions with Russian Post (B2B)
+- HR platform for posting vacancies and automating the recruitment process (B2C / back-office)
+- Internal portal for employees (back-office)
+- B2C platform for finding like-minded people (B2C)
 
 ## Experience Highlights
 - Developed HR platform with SSR (Next.js) and SEO optimization
@@ -50,13 +50,13 @@ Frontend Developer (React, Next.js, TypeScript) with Fullstack experience (Expre
 Web API, Swagger, Orval, Telegraf.js, grammY, Strapi, Chart.js, i18next, Git, Jira, Confluence, Miro, Trello
 
 ## Interested In
-– Developing intuitive, responsive, and accessible interfaces with beautiful designs that people actually want to use
-– Understanding the details and pitfalls of JavaScript
-– Solving non-trivial UX problems
-– Trying out new tools and technologies
-– Improving skills in algorithms and design patterns
-– Sharing experiences with colleagues
+- Developing intuitive, responsive, and accessible interfaces with beautiful designs that people actually want to use
+- Understanding the details and pitfalls of JavaScript
+- Solving non-trivial UX problems
+- Trying out new tools and technologies
+- Improving skills in algorithms and design patterns
+- Sharing experiences with colleagues
 
 ## 💬 Contact me
 - ✉️: bulgakovd97@yandex.ru
-- Telegram: @bulgakovdi / https://t.me/bulgakovdi
+- Telegram: [@bulgakovdi](https://t.me/bulgakovdi)
