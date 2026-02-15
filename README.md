@@ -12,7 +12,7 @@
 
 💻 Frontend Developer (React, Next.js, TypeScript) with Fullstack experience (Express, NestJS, PostgreSQL).
 
-## 🚀 Developed Commercial Projects
+## 🚀 Commercial Projects
 - 📦 B2B platform for managing postal shipments, financial transactions, and interactions with Russian Post (B2B)
 - 🧑‍💼 HR platform for posting vacancies and automating the recruitment process (B2C / back-office)
 - 🏢 Internal portal for employees (back-office)
