@@ -1,7 +1,12 @@
-# 🇬🇧 English | 🇷🇺 Русский
+<p align="center">
+  <b>🌐 Language:</b>
+  <a href="#-english-version">🇬🇧 English</a> |
+  <a href="#-russian-version">🇷🇺 Русский</a>
+</p>
 
-<details>
-<summary>🇬🇧 English</summary>
+---
+
+# 🇬🇧 English Version
 
 ### Hi, I`m Denis 👋
 
@@ -74,10 +79,9 @@ Web API, Swagger, Orval, Telegraf.js, grammY, Strapi, Chart.js, i18next, Git, Ji
 - ✉️ bulgakovd97@yandex.ru
 - Telegram: [@bulgakovdi](https://t.me/bulgakovdi)
 
-</details>
+---
 
-<details>
-<summary>🇷🇺 Русский</summary>
+# 🇷🇺 Russian Version
 
 ### Привет, я Денис 👋
 
@@ -149,5 +153,3 @@ Web API, Swagger, Orval, Telegraf.js, grammY, Strapi, Chart.js, i18next, Git, Ji
 ## 💬 Контакты
 – ✉️ bulgakovd97@yandex.ru
 – Telegram: [@bulgakovdi](https://t.me/bulgakovdi)
-
-</details>
